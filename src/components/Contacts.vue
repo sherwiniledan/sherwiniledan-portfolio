@@ -75,7 +75,7 @@ const submitForm = async () => {
         phone: contactNumber.value,
         concern: concern.value,
         message: message.value,
-        "g-recaptcha-response": recaptchaToken.value
+        
       })
     });
 
