@@ -7,7 +7,7 @@ const notyf = new Notyf();
 
 // Config Keys
 const WEB3FORMS_ACCESS_KEY = "5fd65a97-edbb-4914-9801-7157cb7c2184";
-const SITE_KEY = '6LdKiustAAAAAAX8p8FYW933BzRk9m93hLPgXQAk'; // Replace with your reCAPTCHA v2 site key
+const SITE_KEY = '6LcNqustAAAAAHD0MC9AuJIQ_7mk4pmopJw9SOJ4'; // Replace with your reCAPTCHA v2 site key
 
 // Form Fields
 const clientName = ref('');
